@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "PhongNVT test RestfulAPI NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvtptest/TestRestfulAPINodeJS.git"
+  },
+  "keywords": [
+    "RestfulAPINodeJS"
+  ],
+  "author": "PhongNVT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvtptest/TestRestfulAPINodeJS/issues"
+  },
+  "homepage": "https://github.com/nvtptest/TestRestfulAPINodeJS#readme"
+}
