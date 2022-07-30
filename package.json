@@ -4,7 +4,8 @@
   "description": "PhongNVT test RestfulAPI NodeJS",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/nvtptest/TestRestfulAPINodeJS/issues"
   },
-  "homepage": "https://github.com/nvtptest/TestRestfulAPINodeJS#readme"
+  "homepage": "https://github.com/nvtptest/TestRestfulAPINodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mail-listener2": "^0.3.1",
+    "nodemon": "^2.0.19"
+  }
 }

@@ -1,0 +1,5 @@
+1. npm init => Khởi tạo bước đầu tạo file package-lock.json 
+2. Tạo Repositories trên GitHub rồi connect source
+3. npm install nodemon => library auto refresh khi sửa đổi file mà không cần Ctrl + C terminal rồi chạy lại
+4. sửa lại package.json: thẻ scripts thêm "start" : "nodemon server.js" => auto refresh file server.js
+5. terminal: npm run start => run code nodejs
